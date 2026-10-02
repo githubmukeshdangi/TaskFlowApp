@@ -28,11 +28,12 @@ It helps users create, update, delete, and manage their daily tasks.
 
 ## Installation
 
-Prerequisites
-Node.js
-npm
-Expo Go or an Android emulator
-Git
+Prerequisites :
+* Node.js
+* npm
+* Expo Go or an Android emulator
+* Git
+
 
 Clone the repository:
 
