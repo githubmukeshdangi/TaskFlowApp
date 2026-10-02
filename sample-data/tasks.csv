@@ -1,0 +1,40 @@
+title,description,category,priority,startDate,dueDate,status
+Complete AWS project,Deploy application,Work,high,2026-10-03,2026-10-05,pending
+Prepare Java interview,Revise Spring Boot,Personal,medium,2026-10-03,2026-10-04,pending
+Invalid Task,Test validation,Work,urgent,2026-10-03,2026-10-05,pending
+Learn React Native,Build mobile application,Learning,high,2026-10-04,2026-10-10,pending
+Complete Docker tutorial,Practice Docker commands,Learning,medium,2026-10-04,2026-10-07,pending
+Setup Jenkins pipeline,Configure CI CD pipeline,Work,high,2026-10-05,2026-10-08,pending
+Learn Kubernetes,Practice pods and deployments,Learning,high,2026-10-05,2026-10-12,pending
+Update resume,Add recent project details,Personal,medium,2026-10-06,2026-10-07,pending
+Apply for DevOps jobs,Submit applications,Career,high,2026-10-06,2026-10-15,pending
+Practice SQL queries,Solve joins and subqueries,Learning,medium,2026-10-07,2026-10-09,pending
+Read AWS documentation,Study EC2 and S3,Learning,low,2026-10-07,2026-10-12,pending
+Create portfolio website,Develop personal portfolio,Personal,high,2026-10-08,2026-10-15,pending
+Fix application bug,Debug login issue,Work,high,2026-10-08,2026-10-09,completed
+Prepare interview questions,Revise technical topics,Career,medium,2026-10-09,2026-10-13,pending
+Learn Terraform,Create infrastructure scripts,Learning,high,2026-10-09,2026-10-16,pending
+Practice Linux commands,Revise administration commands,Learning,medium,2026-10-10,2026-10-12,pending
+Configure CloudWatch,Setup application monitoring,Work,high,2026-10-10,2026-10-14,pending
+Complete Java basics,Revise OOP concepts,Learning,medium,2026-10-11,2026-10-15,pending
+Create MySQL database,Design task management schema,Work,high,2026-10-11,2026-10-13,pending
+Write Python script,Automate daily health checks,Work,medium,2026-10-12,2026-10-16,pending
+Learn Git commands,Practice branching and merging,Learning,low,2026-10-12,2026-10-14,pending
+Prepare system design,Study scalable architecture,Career,high,2026-10-13,2026-10-20,pending
+Update LinkedIn profile,Add skills and experience,Career,medium,2026-10-13,2026-10-15,pending
+Test REST APIs,Validate API responses,Work,high,2026-10-14,2026-10-17,pending
+Build React dashboard,Create analytics dashboard,Work,medium,2026-10-14,2026-10-21,pending
+Learn TypeScript,Practice interfaces and types,Learning,medium,2026-10-15,2026-10-18,pending
+Read Spring Boot guide,Study dependency injection,Learning,low,2026-10-15,2026-10-20,pending
+Configure Nginx,Setup reverse proxy,Work,high,2026-10-16,2026-10-19,pending
+Practice coding problems,Solve array and string problems,Career,high,2026-10-16,2026-10-22,pending
+Backup project files,Create local backup,Personal,medium,2026-10-17,2026-10-18,completed
+Learn AWS Lambda,Build serverless function,Learning,medium,2026-10-17,2026-10-23,pending
+Create Docker image,Containerize backend service,Work,high,2026-10-18,2026-10-20,pending
+Review pull requests,Check code quality,Work,medium,2026-10-18,2026-10-19,pending
+Study database indexing,Understand query performance,Learning,high,2026-10-19,2026-10-24,pending
+Practice Java streams,Write functional programs,Learning,medium,2026-10-19,2026-10-22,pending
+Prepare HR interview,Practice introduction and answers,Career,medium,2026-10-20,2026-10-22,pending
+Deploy staging application,Release latest build,Work,high,2026-10-20,2026-10-23,pending
+Monitor production logs,Analyze application errors,Work,high,2026-10-21,2026-10-25,pending
+Learn Ansible,Automate server configuration,Learning,medium,2026-10-21,2026-10-27,pending
